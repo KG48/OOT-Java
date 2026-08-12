@@ -204,27 +204,6 @@ Run the program:
 java HelloWorld
 ```
 
----
-
-## 🔄 Learning Workflow
-
-Each topic will follow this process:
-
-```text
-Learn
-  ↓
-Understand
-  ↓
-Write Code
-  ↓
-Practice
-  ↓
-Commit
-  ↓
-Push to GitHub
-```
-
----
 
 ## 📌 Purpose
 
