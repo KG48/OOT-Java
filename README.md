@@ -6,9 +6,15 @@ BY - Karan Gavhane
 <br>
 object-oriented-programming-java/
 │
-├── 01-Basics/
-│   ├── HelloJava.java
+├── 01-Java-Basics/
+│   ├── HelloWorld.java
 │   ├── Variables.java
+│   ├── DataTypes.java
+│   ├── Operators.java
+│   ├── InputOutput.java
+│   ├── ConditionalStatements.java
+│   ├── Loops.java
+│   ├── Arrays.java
 │   └── Methods.java
 │
 ├── 02-Classes-and-Objects/
