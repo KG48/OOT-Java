@@ -13,16 +13,16 @@ class Car {
     }
 
     public void displayDetails() {
-        System.out.println("Car Details " + this.year +" " + this.make+ " " + this.model);
+        System.out.println("Car Details ->" +  " Model :- " + this.year +" ->" + "Brand :- " + this.make+ "-> " + "Model :- " + this.model);
 
     }
 
 }
 
-public class Lab1 {
+class lab1 {
 
     public static void main(String[]args) {
-        Car myCar = new Car(make: "Toyota", model:"Camry", year: 2023);
+        Car myCar = new Car("Toyota","Camry",2023);
         myCar.displayDetails();
     }
 }
